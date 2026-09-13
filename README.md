@@ -42,6 +42,7 @@ Docker Hub是 Docker 提供的一项服务，用于与您的团队查找和共�
 | [https://hubfast.cn](https://hubfast.cn/)                    | `https://free.hubfast.cn`                         |
 | [腾讯云](https://cloud.tencent.com/document/product/457/9113)（只支持内网访问，不支持外网域名访问加速。[轻量应用服务器 安装 Docker 并配置镜像加速源](https://cloud.tencent.com/document/product/1207/45596)） | `https://mirror.ccs.tencentyun.com`               |
 | [厚浪镜像 — 高速拉取所有 Docker 镜像 - hlmirror](https://mirror.houlang.cloud/)（需要注册登录获取令牌） | `https://mirror.houlang.cloud`                    |
+| [Zone Mirrors 镜像站](https://mirrors.zone/)               | `https://docker.mirrors.zone`                     |
 
 ### 已失效DockerHub加速镜像仓库
 
